@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.245" tests="12" skipped="0" failures="12" errors="0">
+<testcase classname="Login with all user website provided" name="Login with all user website provided - Example #1.1" time="0.006">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL website...............................................undefined
+When Enter email and password "standard_user" "secret_sauce"................skipped
+And Click on login icon.....................................................skipped
+Then login successfully to home page........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login with all user website provided" name="Login with all user website provided - Example #1.2" time="0.002">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL website...............................................undefined
+When Enter email and password "problem_user" "secret_sauce".................skipped
+And Click on login icon.....................................................skipped
+Then login successfully to home page........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login with all user website provided" name="Login with all user website provided - Example #1.3" time="0.002">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL website...............................................undefined
+When Enter email and password "performance_glitch_user" "secret_sauce"......skipped
+And Click on login icon.....................................................skipped
+Then login successfully to home page........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login with all user website provided" name="Login with all user website provided - Example #1.4" time="0.002">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL website...............................................undefined
+When Enter email and password "error_user" "secret_sauce"...................skipped
+And Click on login icon.....................................................skipped
+Then login successfully to home page........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login with all user website provided" name="Login with all user website provided - Example #1.5" time="0.003">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL website...............................................undefined
+When Enter email and password "visual_user" "secret_sauce"..................skipped
+And Click on login icon.....................................................skipped
+Then login successfully to home page........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Sorting all items by price" name="Sorting all items by price - Example #1.1" time="0.001">
+<failure/>
+<system-out><![CDATA[
+Given Navigate To URL website...............................................undefined
+When enter email and password "standard_user" "secret_sauce"................skipped
+And click on login icon.....................................................skipped
+And Login successfully to home page.........................................skipped
+Then sorting the items from lower price.....................................skipped
+And sorting the items from Highest price....................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Positive flow of buying all items" name="Positive flow of buying all items - Example #1.1" time="0.003">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL Website...............................................undefined
+When Enter Email and Password "standard_user" "secret_sauce"................skipped
+And Click on Login icon.....................................................skipped
+Then login Successfully to home page........................................skipped
+When choose the items by clicking on add to card............................skipped
+Then check the items is added to the card...................................skipped
+And we clicking on the shopping icon........................................skipped
+And clicking on checkout to move to anther page and enter the valid data....skipped
+And after clicking finished a success message appeared......................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Positive flow of buying all items" name="Positive flow of buying all items - Example #1.2" time="0.004">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL Website...............................................undefined
+When Enter Email and Password "performance_glitch_user" "secret_sauce"......skipped
+And Click on Login icon.....................................................skipped
+Then login Successfully to home page........................................skipped
+When choose the items by clicking on add to card............................skipped
+Then check the items is added to the card...................................skipped
+And we clicking on the shopping icon........................................skipped
+And clicking on checkout to move to anther page and enter the valid data....skipped
+And after clicking finished a success message appeared......................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Positive flow of buying all items" name="Positive flow of buying all items - Example #1.3" time="0.003">
+<failure/>
+<system-out><![CDATA[
+Given Navigate to URL Website...............................................undefined
+When Enter Email and Password "visual_user" "secret_sauce"..................skipped
+And Click on Login icon.....................................................skipped
+Then login Successfully to home page........................................skipped
+When choose the items by clicking on add to card............................skipped
+Then check the items is added to the card...................................skipped
+And we clicking on the shopping icon........................................skipped
+And clicking on checkout to move to anther page and enter the valid data....skipped
+And after clicking finished a success message appeared......................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Positive flow of removing all items after add to card" name="Positive flow of buying all items - Example #1.1" time="0.002">
+<failure/>
+<system-out><![CDATA[
+Given navigate to URL Website...............................................undefined
+When enter Email and Password "standard_user" "secret_sauce"................skipped
+And click on Login icon.....................................................skipped
+Then Login Successfully to home page........................................skipped
+When Choose the items by clicking on add to card............................skipped
+Then Check the items is added to the card...................................skipped
+And We clicking on the shopping icon........................................skipped
+And Removing all items......................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Positive flow of removing all items after add to card" name="Positive flow of buying all items - Example #1.1" time="0.001">
+<failure/>
+<system-out><![CDATA[
+Given navigate To URL Website...............................................undefined
+When enter Email And Password "standard_user" "secret_sauce"................skipped
+And click on Login Icon.....................................................skipped
+Then Login Successfully to home Page........................................skipped
+And We clicking on the shopping Icon........................................skipped
+And Cleck on checkout without buying........................................skipped
+And validate that no expenses...............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Sorting all items by price" name="Sorting all items by price - Example #1.1" time="0.002">
+<failure/>
+<system-out><![CDATA[
+Given Navigate To URL.......................................................undefined
+When enter email , password "standard_user" "secret_sauce"..................skipped
+And click login icon........................................................skipped
+And Login successfully to homepage..........................................skipped
+Then sorting the items from A-Z price.......................................skipped
+And sorting the items from Z-A price........................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
